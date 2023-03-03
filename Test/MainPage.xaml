@@ -14,9 +14,9 @@
     
    <ScrollView>
         <VerticalStackLayout Spacing="10">
-            <RadioButton BorderColor="Aquamarine"></RadioButton>
-            <RadioButton BackgroundColor="Red"></RadioButton>
-            <RadioButton TextColor="Yellow"></RadioButton>
+            <RadioButton BorderColor="Aquamarine" Content="Border Color"></RadioButton>
+            <RadioButton BackgroundColor="Red" Content="Background Color"></RadioButton>
+            <RadioButton TextColor="Yellow" Content="Text Color"></RadioButton>
         </VerticalStackLayout>
     </ScrollView>
 
